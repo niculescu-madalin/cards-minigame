@@ -1,2 +1,2 @@
-# blackjack-minigame
+# cards-minigame
 C++ blackjack console minigame
